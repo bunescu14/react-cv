@@ -1,0 +1,32 @@
+#header {
+    transition: ease-in-out 0.3s;
+    position: relative;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    z-index: 997;
+    overflow-y: auto;
+    color: #fff;
+}
+
+#header.header-top {
+    height: 80px;
+    left: 0;
+    top: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.9);
+}
+
+.header-top h1 {
+    margin-right: auto;
+    font-size: 36px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    text-align: left;
+}
+
+
+
+#header * {
+    transition: ease-in-out 0.3s;
+}

@@ -1,5 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
 .App {
   text-align: center;
+  background-image: url("../public/programming.jpg");
+}
+
+.wrapper {
+  padding: 40px;
+  border-radius: 47px;
+  background: #ffffff;
+  box-shadow:  17px 17px 21px #d0d0d0,
+  -17px -17px 21px #f0f0f0;
+  margin: 20px;
+  min-height: 300px;
 }
 
 .App-logo {

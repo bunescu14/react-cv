@@ -1,0 +1,90 @@
+{
+  "firstCol": [
+    {
+      "title": "Sumary",
+      "resumeItem" : {
+        "title": "Professional summary",
+        "content": "<ul><li>Enthusiastic , eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of Tasks. Motivated to learn, grow </li><li>Skilled in working under pressure and adapting to new situations and challenges to best enhance the organizational brand.</li><li>To seek and maintain full-time position that offers professional challenges utilizing interpersonal skills, excellent time management and problem-solving skills.</li></ul>"
+      }
+    },
+    {
+      "title": "SKILLS",
+      "resumeItem": {
+        "title": "Languages & Frameworks",
+        "content": "<ul><li>JavaScript</li><li>TypeScript</li><li>Vue Js</li><li>Nuxt Js</li><li>PHP</li><li>Laravel</li><li>Python (Beginner)</li><li>React Js (Beginner)</li>"
+      }
+    },
+    {
+      "title": "",
+      "resumeItem" : {
+        "title": "Databases",
+        "content": "<ul><li>PostgreSQL</li><li>MySQL</li><li>Mongo</li></ul>"
+      }
+    },
+    {
+      "title": "",
+      "resumeItem" : {
+        "title": "Other",
+        "content": "<ul><li>Git</li><li>Github</li><li>Docker</li><li>REST API</li><li>GraphQL</li><li>Microservices</li></ul>"
+      }
+    },
+    {
+      "title": "EDUCATION",
+      "resumeItem" : {
+        "title": "TECHNICAL UNIVERSITY OF MOLDOVA",
+        "content": "<h5>GRADUATION DATE - MAY 2013</h5><h5>Computers Informatics and Microelectronics</h5>"
+      }
+    },
+    {
+      "title": "LANGUAGES",
+      "resumeItem" : {
+        "title": "",
+        "content": "<ul><li>Romanina (Native)</li><li>Russian (Upper intermediate)</li><li>English (Upper intermediate)</li></ul>"
+      }
+    }
+  ],
+  "secondCol": [
+    {
+      "title": "Professional Experience",
+      "resumeItem" : {
+        "title": "TEAM LEADER - PROJECT MANAGEMENT / FULL STACK DEVELOPER",
+        "content": "<h5>Planeo Development | Sep 2021 – Present</h5><ul><li>Designing and building e-commerce using Laravel, Vue Js, Type Script</li><li>Review code, debugged problems and corrected issues.</li><li>Working with front-end and back-end developers on projects.</li><li>Testing functionality for users and the backend</li><li>Ensuring that integrations run smoothly.</li><li>Scaling projects based on client feedback</li><li>Maintaining web-based applications</li><li>Presenting work in meetings with clients and management</li><li>dentified plans and resources required to meet project goals and objectives</li></ul>"
+      }
+    },
+    {
+      "title": "",
+      "resumeItem" : {
+        "title": "TEAM LEADER / FULL STACK WEB DEVELOPER",
+        "content": "<h5>Best4u International | Feb 2020 – Sep 2021.</h5><ul><li>Designing and building e-commerce using Laravel, Vue js, Type Script</li><li>Reviewed code, debugged problems and corrected issues</li><li>Lead team of 8 members while providing exceptional customer service</li><li>Coordinated weekly meetings for internal and external groups.</li></ul>"
+      }
+    },
+    {
+      "title": "",
+      "resumeItem" : {
+        "title": "FULL STACK DEVELOPER",
+        "content": "<h5>Best4u Media | Apr 2017 – Feb 2020</h5><ul><li>Discussing project aims with the client and development team.</li><li>Designing and building web applications using Laravel and VueJs 2.</li><li>Maintaining web-based applications</li><li>Presenting work in meetings with clients and management.\n</li></ul>"
+      }
+    },
+    {
+      "title": "",
+      "resumeItem" : {
+        "title": "WORDPRESS DEVELOPER | SEO SPECIALIST",
+        "content": "<h5>Best4u Media | Sep 2015 – Mar 2017.</h5><ul><li>Converted design assets into component-based HTML, CSS and Javascript</li><li>Leverage strong understanding of Wordpress core to manipulate admin and theme components</li><li>Delivered quality commercial websites that met coding standards and cross- browser compatibilities</li><li>Collaborated with design and project developers to understand project scope and offer elegant, creative and scalable solutions</li></ul>"
+      }
+    },
+    {
+      "title": "",
+      "resumeItem" : {
+        "title": "FULL STACK DEVELOPER",
+        "content": "<h5>Verozone Solutions | Jun 2014 – Sep 2015\n</h5><ul><li>Designed and developed efficient and maintainable CRM according to needs of State University of Medicine and Pharmacy of the Republic of Moldova.</li></ul>"
+      }
+    },
+    {
+      "title": "",
+      "resumeItem" : {
+        "title": "INFORMATIONAL SYSTEM ADMINISTRATOR",
+        "content": "<h5>Banca Sociala SA | Apr 2013 – Jun 2014</h5><ul><li>Managing the banking system \"VABANK\", and maintaining network between four bank branches.</li></ul>"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.button {
+    border-radius: 68px;
+    background: linear-gradient(145deg, #ab22ff, #901dd8);
+    box-shadow:  5px 5px 19px #400d60,
+    -5px -5px 19px #ff33ff;
+    color: #fff;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+}
